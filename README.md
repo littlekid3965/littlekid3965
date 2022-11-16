@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Mysql-83B81A?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">🌈 how to contact me 🌈</h3>
 <p align="center">
 
 
