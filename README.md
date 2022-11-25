@@ -1,8 +1,4 @@
-
 ### <h1 align="center">🌈 Welcome to my little3965 account! 🌈</h1>
-
-
-
 
 <h3 align="center"> 📚 studying 📚</h3>
 <p align="center">
