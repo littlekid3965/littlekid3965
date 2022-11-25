@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Naver-83B81A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dbjcs7032@naver.com"/></a>
 
 <h3 align="center">🐱 source 🐱</h3>
-<img src="https://img.shields.io/badge/출처: 고양이 그림-191A1B?style=flat-square&link=https://www.pinterest.co.kr/pin/486951778472448578/?mt=login"/></a>
+<img src="https://img.shields.io/badge/출처: 고양이 그림-191A1B?style=flat-square&link=https://www.pinterest.co.kr/pin/486951778472448578/"/></a>
 
 ![image](https://user-images.githubusercontent.com/112846368/204017223-3e3eb067-781f-47af-96b5-6757dbe9fd8a.png)
 
